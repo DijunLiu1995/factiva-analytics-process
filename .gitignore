@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Dow Jones DNA Data folders
+data*/
+dicts/
+
+# Dow Jones DNA local working files
+ZZ*
+
+# MacOS DS_Store
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
